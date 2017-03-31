@@ -1,11 +1,11 @@
 # Yellow Submarine
-Gioco 3D sviluppato in C++11 usando le librerie OpenGL e SDL in ambiente Linux, per il progetto del corso di Grafica della magistrale in Informatica dell'Università di Bologna (a.a. 2015-2016). Sviluppato da Margherita Donnici (matricola 774416).
+A 3D game written in C++ using OpenGL and SDL for Linux.
 
-## Installazione
-Eseguire il makefile nella cartella projects/src per compilare il gioco.
+## Installation
+Download the files and run the makefile inside the *project* folder.
 
-## Dipendenze
-Sono necessarie le seguenti librerie:
+## Dependencies
+In order to play the game, you have to install the following dependencies:
 * libsdl2-dev
 * libsdl2-ttf-dev
 * libsdl2-image-dev
