@@ -12,3 +12,5 @@ In order to play the game, you have to install the following dependencies:
 * libsdl2-dev
 * libsdl2-ttf-dev
 * libsdl2-image-dev
+
+(Migrated from Bitbucket: https://bitbucket.org/margheritadonnici/yellow-submarine-game)
